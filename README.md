@@ -7,3 +7,4 @@ Learning git step by step
 This has to be plain text!
 
 these changes must be saved to trial branch.
+to do these changes
